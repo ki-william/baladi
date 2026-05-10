@@ -553,7 +553,7 @@ export default function Home() {
 
           <Reveal delay={150}>
             <div className="card card-accent p-8 md:sticky md:top-28">
-              <div className="chip mb-5">Why UniBZ MSc</div>
+              <div className="chip mb-5">Why a Master&apos;s</div>
               <h3 className="text-2xl md:text-3xl font-bold mb-5 text-ink-900">I&apos;m a founder — not yet a finished one.</h3>
               <p className="text-ink-700 leading-relaxed mb-5">
                 I&apos;ve built two companies from nothing, but I&apos;ve also hit the ceiling of what pattern-matching and
@@ -561,7 +561,7 @@ export default function Home() {
                 venture-scale business design.
               </p>
               <ul className="space-y-3 text-sm text-ink-700">
-                <li className="flex gap-3"><span className="text-yellow-700 font-bold">1.</span><span><strong>Trilingual, cross-border Bolzano</strong> — the best cultural environment to design a product whose users span Italian, German, and Arabic markets.</span></li>
+                <li className="flex gap-3"><span className="text-yellow-700 font-bold">1.</span><span><strong>Cross-border, multilingual environment</strong> — the best cultural setting to design a product whose users span European and Arabic markets.</span></li>
                 <li className="flex gap-3"><span className="text-yellow-700 font-bold">2.</span><span><strong>EU regulatory ecosystem</strong> (ECSP, MiCA, PSD3) governs Baladi&apos;s European side — I need structured access to it.</span></li>
                 <li className="flex gap-3"><span className="text-yellow-700 font-bold">3.</span><span><strong>Rigorous entrepreneurial training</strong> — to move from founder-operator to venture architect.</span></li>
               </ul>
@@ -596,7 +596,7 @@ export default function Home() {
           </Reveal>
           <Reveal delay={240}>
             <p className="mt-5 text-base text-ink-500 max-w-2xl mx-auto">
-              NABC submission · Application to the UniBZ MSc in Entrepreneurship &amp; Innovation.
+              A venture pitch for an Entrepreneurship &amp; Innovation Master&apos;s application.
             </p>
           </Reveal>
           <Reveal delay={360}>
@@ -639,7 +639,7 @@ export default function Home() {
                 <LogoMark />
               </div>
             </div>
-            <span>Baladi · NABC submission · Kirolos William</span>
+            <span>Baladi · Kirolos William</span>
           </div>
           <div className="flex gap-6">
             <a href="https://juzuuur.com" target="_blank" className="hover:text-ink-900">Juzuuur</a>

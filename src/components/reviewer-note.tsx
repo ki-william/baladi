@@ -18,7 +18,7 @@ export function ReviewerNote() {
 
         <div className="space-y-5 text-ink-900 text-lg sm:text-xl leading-relaxed max-w-4xl">
           <p>
-            If you&apos;re reading this, you&apos;re deciding whether to let me into Bolzano.
+            If you&apos;re reading this, you&apos;re deciding whether to let me into your programme.
             So let me be direct.
           </p>
 
@@ -31,14 +31,14 @@ export function ReviewerNote() {
           </p>
 
           <p>
-            What UniBZ offers — the <span className="text-yellow-500 font-semibold">trilingual cross-border DNA</span>,
+            What a strong entrepreneurship programme offers — a <span className="text-yellow-500 font-semibold">cross-border network</span>,
             the <span className="text-yellow-500 font-semibold">EU regulatory ecosystem</span>,
             the <span className="text-yellow-500 font-semibold">rigorous venture training</span> —
             is the exact environment where a founder like me compounds fastest. Admitting me is
             low-risk: the work is already moving. It&apos;s high-upside: the next company I build
             will be materially larger than the ones I&apos;ve built so far. And it&apos;s aligned:
-            Baladi is the kind of cross-border, regulated, Europe-anchored venture that your
-            program was literally designed to produce.
+            Baladi is the kind of cross-border, regulated, Europe-anchored venture that top
+            entrepreneurship programmes are designed to produce.
           </p>
 
           <p className="font-semibold">
@@ -53,7 +53,7 @@ export function ReviewerNote() {
           <div>
             <div className="font-semibold text-ink-900">Kirolos William</div>
             <div className="text-sm text-ink-500">
-              Founder · Juzuuur &amp; Ya Egypt · Applicant · UniBZ MSc 2026
+              Founder · Juzuuur &amp; Ya Egypt
             </div>
           </div>
         </div>

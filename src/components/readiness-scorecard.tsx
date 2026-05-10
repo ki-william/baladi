@@ -51,7 +51,7 @@ export function ReadinessScorecard() {
           </div>
           <div className="text-right">
             <div className="text-[10px] uppercase tracking-[0.3em] text-ink-500 mb-1">That environment is</div>
-            <div className="text-lg font-bold text-yellow-500">UniBZ MSc · Entrepreneurship &amp; Innovation</div>
+            <div className="text-lg font-bold text-yellow-500">MSc · Entrepreneurship &amp; Innovation</div>
           </div>
         </div>
       </div>
